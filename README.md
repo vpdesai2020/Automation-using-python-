@@ -1,4 +1,4 @@
 # Automation-using-python-
 some of automate stuffs using python
 
-- [Text to PDF](https://github.com/nitin42/Python-Automation/blob/master/project_1.py)  - Create a PDF file from Texts
+- [Text to PDF](https://github.com/vpdesai2020/Automation-using-python-/blob/master/Text_to_pdf.py)  - Create a PDF file from Texts
