@@ -1,5 +1,5 @@
 
-#Here i have used google text to speech API for converting text to speech
+#Here I have used google text to speech API for converting text to speech
 
 from gtts import gTTS
 import os
