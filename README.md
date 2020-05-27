@@ -2,7 +2,8 @@
 some of automate stuffs using python
 
 - [Text to PDF](https://github.com/vpdesai2020/Automation-using-python-/blob/master/Text_to_pdf.py)  - Create a PDF file from Texts
+- [Text to Speech](https://github.com/vpdesai2020/Automation-using-python-/blob/master/Text_to_pdf.py)  - Convert text to Speech
 
 
 
-![Alt text](file:///C:/Users/Desai/Downloads/signature5e9f0f691f364.gif)
+
