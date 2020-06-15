@@ -6,7 +6,7 @@ some of automate stuffs using python
 - [Combine_excel_files](https://github.com/vpdesai2020/Automation-using-python-/blob/master/combine_excel_sheets.py)  - Combining multiple excel files in single shot
 - [Inshorts News Headlines](https://github.com/vpdesai2020/Automation-using-python-/blob/master/Inshorts_News_scraping/Inshorts_NEWS_Headings.py) & [Inshorts Brief News](https://github.com/vpdesai2020/Automation-using-python-/blob/master/Inshorts_News_scraping/Inshorts_Brief_News.py)  - News headlines scraping from Inshorts.com
 - [Image to PDF](https://github.com/vpdesai2020/Everyday-Python/blob/master/Image_to_PDF/Image_to_PDF.py) -Convert image to PDF file using python
-
+- [Search Wikipedia](https://github.com/vpdesai2020/Automation-using-python-/blob/master/search_Wikipedia.py) - search wikipedia using python script
 
 
 
