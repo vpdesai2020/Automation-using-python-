@@ -16,7 +16,7 @@ def start(bot, update):
         update.message.reply_text(headings)                            
 
 def main():
-    updater = Updater('847610448:AAGjGQ5jJxwdYtvKQyzk2x4NFTHmFe6w9ko')
+    updater = Updater('KEY')
     dp = updater.dispatcher
     dp.add_handler(CommandHandler('start',start))
     updater.start_polling()
