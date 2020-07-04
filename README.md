@@ -8,6 +8,7 @@ some of automate stuffs using python
 - [Image to PDF](https://github.com/vpdesai2020/Everyday-Python/blob/master/Image_to_PDF/Image_to_PDF.py) -Convert image to PDF file using python
 - [Search Wikipedia](https://github.com/vpdesai2020/Automation-using-python-/blob/master/search_Wikipedia.py) - search wikipedia using python script
 - [Daily News TelegramBot](https://github.com/vpdesai2020/Automation-using-python-/blob/master/Daily%20News%20BOT/Daily_News_Bot.py) - Daily News Headings (@DailyHeadings_bot)
+- [email validation](https://github.com/vpdesai2020/Automation-using-python-/blob/master/email_validation.py) - check email address is valid or not using python script
 
 
 
