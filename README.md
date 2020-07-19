@@ -11,6 +11,7 @@ some of automate stuffs using python
 - [email validation](https://github.com/vpdesai2020/Automation-using-python-/blob/master/email_validation.py) - check email address is valid or not using python script
 - [OTP Generator](https://github.com/vpdesai2020/Automation-using-python-/blob/master/OTP_Generator.py) - Using python program generate OTP by random function
 - [URL Shortener](https://github.com/vpdesai2020/Automation-using-python-/blob/master/URL_shortener.py) - Make your lenghty URL to short
+- [Number Extract from a string](https://github.com/vpdesai2020/Automation-using-python-/blob/master/Number_extract_from_string.py) - Extracting number from given string
 
 
 
